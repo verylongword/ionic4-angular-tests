@@ -1,0 +1,6 @@
+{
+  "appId": "don.purnell.test.tabs",
+  "appName": "testTabs2",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
